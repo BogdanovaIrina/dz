@@ -10,7 +10,7 @@ function HW5() {
     return (
         <BrowserRouter>
             <div>
-                        <Routes><Route path="/dz" element={<Navigate to="/prejunior" />}/></Routes>
+                        <Routes><Route path="/dzz" element={<Navigate to="/prejunior" />}/></Routes>
                         <Routes><Route path="/prejunior" element={<PreJunior/>} /></Routes>
                         <Routes><Route path="/junior" element={<Junior/>} /></Routes>
                         <Routes><Route path="/junior_plus" element={<Junior_Plus/>} /></Routes>
