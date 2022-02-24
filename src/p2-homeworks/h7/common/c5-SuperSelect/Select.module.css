@@ -1,0 +1,12 @@
+.main {
+    appearance: none;
+    width: 90px;
+    height: 30px;
+    background-color: beige;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.part {
+    font-size: 18px;
+    font-weight: bold;
+}

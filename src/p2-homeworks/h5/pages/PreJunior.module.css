@@ -1,0 +1,7 @@
+.list li a {
+    text-decoration: none;
+    color: indigo;
+}
+.list li a:hover{
+    color: darkcyan;
+}

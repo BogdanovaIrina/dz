@@ -1,0 +1,25 @@
+.someClass {
+
+}
+
+.error {
+    border: 2px solid red;
+}
+
+.input {
+    border: 2px solid black;
+}
+
+.errorMessage {
+    color: red;
+    padding-left: 10px;
+}
+
+.total {
+ padding-left: 10px;
+}
+
+.button {
+    margin-left: 10px;
+    background: cadetblue;
+}

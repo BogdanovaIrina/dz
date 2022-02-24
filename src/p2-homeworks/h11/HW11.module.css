@@ -1,0 +1,26 @@
+.main {
+    width: 400px;
+    display:flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+.main2 {
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.main2 > div {
+    margin-left: 5px;
+}
+.main5 {
+    margin-top: 20px;
+    display: flex;
+    width: 200px;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+
+

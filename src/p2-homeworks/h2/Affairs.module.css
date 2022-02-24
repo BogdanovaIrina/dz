@@ -1,0 +1,28 @@
+.tasks {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button {
+    margin: 10px;
+    width: 60px;
+    background: cadetblue;
+}
+.button:active {
+    background: cyan;
+}
+
+.item {
+    margin: 10px;
+    width: 100px;
+}
+.btn {
+    margin-left: 10px;
+    width: 55px;
+    background: slategray ;
+}
+.btn:active {
+    background: lightgray;
+}
